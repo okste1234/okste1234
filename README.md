@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Adekunle Stephen O.</h1>
 <h3 align="center">A passionate Smart Contracts, Frontend Developer, Web3 Auditor from Nigeria</h3>
 
