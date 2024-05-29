@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okste1234&label=Profile%20views&color=0e75b6&style=flat" alt="okste1234" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okste1234" alt="okste1234" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okste1234" alt="okste1234" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/Okste1234" target="blank"><img src="https://img.shields.io/twitter/follow/Okste1234?logo=twitter&style=for-the-badge" alt="Okste1234" /></a> </p>
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okste1234&show_icons=true&locale=en&layout=compact" alt="okste1234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okste1234&show_icons=true&locale=en" alt="okste1234" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okste1234&show_icons=true&locale=en" alt="okste1234" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okste1234&" alt="okste1234" /></p> -->
