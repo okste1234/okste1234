@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adekunle Stephen O.</h1>
-<h3 align="center">A passionate Smart Contracts, Blockchain & Frontend Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okste1234&label=Profile%20views&color=0e75b6&style=flat" alt="okste1234" /> </p>
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/Okste1234" target="blank"><img src="https://img.shields.io/twitter/follow/Okste1234?logo=twitter&style=for-the-badge" alt="Okste1234" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contracts and dApp**
+- 🔭 I’m currently working on **fullstack applications, and systems across Web2&Web3**
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Solidity, Nextjs, TypeScript, React, Cartesi**
+- 💬 Ask me about **TypeScript, React, Node.js, Solidity,Nextjs, FastAPI**
 
 - 📫 How to reach me **omorotimiadekunle@gmail.com *and okste1234@gmail.com** 
 
