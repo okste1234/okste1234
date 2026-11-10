@@ -1,36 +1,45 @@
+### Hi, I'm Adekunle 👋
 
-<h1 align="center">Hi 👋, I'm Adekunle Stephen O.</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+**Full-stack and AI engineer.** I build AI agents, voice systems, and the backends and interfaces around them.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okste1234&label=Profile%20views&color=0e75b6&style=flat" alt="okste1234" /> </p>
+I've led engineering at Sumeru Tech (formerly Age of AI) and co-founded [HODL](https://joinhodl.com), where I'm COO. Six years of shipping production software across AI, fintech, healthtech and Web3. My work sits where a model meets a product: tool-calling agents, real-time voice AI, evals and guardrails, and the security and deployment work that keeps them trustworthy.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okste1234" alt="okste1234" /></a> </p> -->
+I like measuring the claim. A cutover that rolls itself back, an API audited endpoint by role, an agent tested against an adversarial set: if a number is in my work, it has a source.
 
-<p align="left"> <a href="https://twitter.com/Okste1234" target="blank"><img src="https://img.shields.io/twitter/follow/Okste1234?logo=twitter&style=for-the-badge" alt="Okste1234" /></a> </p>
+______________________________________________________________________
 
-- 🔭 I’m currently working on **fullstack applications, and systems across Web2&Web3**
+### What I'm into right now
+- **Voice and agents:** text-to-speech, voice catalogues and translation APIs for a workspace-scoped voice platform; tool-calling pipelines that end in a real phone call.
+- **Evaluation and guardrails:** keeping safety in code instead of in prompts, and testing it against adversarial inputs.
+- **Backend architecture:** event sourcing, realtime backplanes, zero-downtime deployments, RBAC and security audits.
 
-- 🌱 I’m currently learning **Rust**
+### Selected work
+- [inbox-triage-quest](https://github.com/okste1234/inbox-triage-quest): a human-in-the-loop assistant that drafts but never sends. Guardrails live in code; adversarial set 19/26 → 24/26.
+- [video_backplane](https://github.com/okste1234/video_backplane): WebSockets across stateless API replicas with a Redis pub/sub backplane.
+- [acquisitions](https://github.com/okste1234/acquisitions): Node, Drizzle and Neon API with Arcjet security and multi-arch Docker CI/CD.
+- [merkle-claim_erc1155](https://github.com/okste1234/merkle-claim_erc1155): an ERC-1155 airdrop that stores one Merkle root and mints against proofs.
+- [aavegotchi_GHST_staking_contractReview](https://github.com/okste1234/aavegotchi_GHST_staking_contractReview): a long-form review of a production EIP-2535 diamond.
+- [Metabase #86408](https://github.com/metabase/metabase/pull/86408): an accessibility fix to the navigation sidebar, in review.
 
-- 💬 Ask me about **TypeScript, React, Node.js, Solidity,Nextjs, FastAPI**
+### Production work
+- **Tellco AI** (voice CRM): a zero-downtime cutover of 250+ endpoints with automatic rollback, and a security audit across 294 endpoint and role combinations.
+- **SchoolExl**: adaptive learning with voice and streaming AI, live with about 1,000 learners in India and Jamaica.
+- **Lendbit** (DeFi lending): 1st place at QuickNode's Build On hackathon; spotlighted by Base.
+- **Corenote** (care management): a 40%+ Core Web Vitals improvement for 2,500 daily users.
 
-- 📫 How to reach me **omorotimiadekunle@gmail.com *and okste1234@gmail.com** 
+Case studies, with the decisions behind them, are on my portfolio: **[okste.vercel.app](https://okste.vercel.app)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/okste/](https://www.linkedin.com/in/okste/)
+### What I reach for
+**AI:** Anthropic and OpenAI APIs, tool-calling, RAG, FreeSWITCH, WebRTC, LiveKit, Whisper
+**Backend:** TypeScript and Node (Fastify, NestJS, Hono, Bun), Python (FastAPI, Django), PostgreSQL, Redis
+**Frontend:** React, Next.js, TanStack Start, Tailwind
+**Infra and security:** Docker, GitHub Actions, nginx, Vault, TLS, OWASP practices
+**Web3:** Solidity (EIP-2535), Foundry, viem, account abstraction
 
-- ⚡ Fun fact **I'm industrous, adventurous, and fun to be with**
+### Teaching
+I've mentored 50+ developers across Web3Bridge, Women in DeFi and OAU STESA, and I give talks on moving from science education into technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Okste1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Okste1234" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/okste/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okste/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://solidity-by-example.org/" target="_blank" rel="noreferrer"> <img src="https://svgur.com/i/eKG.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="rust" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="rust" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://cartesi.io/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/cartesi-ctsi-logo.png" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okste1234&show_icons=true&locale=en&layout=compact" alt="okste1234" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okste1234&show_icons=true&locale=en" alt="okste1234" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okste1234&" alt="okste1234" /></p> -->
+### Get in touch
+Open to full-stack and AI engineering roles, technical growth, and consulting.
+- Email: [omorotimiadekunle@gmail.com](mailto:omorotimiadekunle@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/okste/) · [X](https://x.com/Okste1234)
