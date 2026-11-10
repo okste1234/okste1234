@@ -2,7 +2,7 @@
 
 **Full-stack and AI engineer.** I build AI agents, voice systems, and the backends and interfaces around them.
 
-I've led engineering at Sumeru Tech (formerly Age of AI) and co-founded [HODL](https://joinhodl.com), where I'm COO. Six years of shipping production software across AI, fintech, healthtech and Web3. My work sits where a model meets a product: tool-calling agents, real-time voice AI, evals and guardrails, and the security and deployment work that keeps them trustworthy.
+I've led engineering at Sumeru Tech (formerly Age of AI) and co-founded [HODL](https://joinhodl.com). Six years of shipping production software across AI, fintech, healthtech and Web3. My work sits where a model meets a product: tool-calling agents, real-time voice AI, evals and guardrails, and the security and deployment work that keeps them trustworthy.
 
 I like measuring the claim. A cutover that rolls itself back, an API audited endpoint by role, an agent tested against an adversarial set: if a number is in my work, it has a source.
 
@@ -18,8 +18,6 @@ ______________________________________________________________________
 - [video_backplane](https://github.com/okste1234/video_backplane): WebSockets across stateless API replicas with a Redis pub/sub backplane.
 - [acquisitions](https://github.com/okste1234/acquisitions): Node, Drizzle and Neon API with Arcjet security and multi-arch Docker CI/CD.
 - [merkle-claim_erc1155](https://github.com/okste1234/merkle-claim_erc1155): an ERC-1155 airdrop that stores one Merkle root and mints against proofs.
-- [aavegotchi_GHST_staking_contractReview](https://github.com/okste1234/aavegotchi_GHST_staking_contractReview): a long-form review of a production EIP-2535 diamond.
-- [Metabase #86408](https://github.com/metabase/metabase/pull/86408): an accessibility fix to the navigation sidebar, in review.
 
 ### Production work
 - **Tellco AI** (voice CRM): a zero-downtime cutover of 250+ endpoints with automatic rollback, and a security audit across 294 endpoint and role combinations.
