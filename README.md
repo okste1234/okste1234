@@ -25,7 +25,7 @@ ______________________________________________________________________
 - **Lendbit** (DeFi lending): 1st place at QuickNode's Build On hackathon; spotlighted by Base.
 - **Corenote** (care management): a 40%+ Core Web Vitals improvement for 2,500 daily users.
 
-Case studies, with the decisions behind them, are on my portfolio: **[okste.vercel.app](https://okste.vercel.app)**
+Case studies, with the decisions behind them, are on my portfolio: **[okste.is-a.dev](https://okste.is-a.dev)**
 
 ### What I reach for
 **AI:** Anthropic and OpenAI APIs, tool-calling, RAG, FreeSWITCH, WebRTC, LiveKit, Whisper
